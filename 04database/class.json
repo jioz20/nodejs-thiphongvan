@@ -1,0 +1,52 @@
+[
+    {
+        "name": "1A",
+        "teacher": {
+            "name": "Hoa",
+            "age": 30
+        },
+        "students": [
+            {
+                "name": "Tri",
+                "age": 21
+            },
+            {
+                "name": "Huong",
+                "age": 20
+            },
+            {
+                "name": "Khoa",
+                "age": 20
+            },
+            {
+                "name": "Nguyen",
+                "age": 20
+            }
+        ]
+    },
+    {
+        "name": "2A",
+        "teacher": {
+            "name": "An",
+            "age": 30
+        },
+        "students": [
+            {
+                "name": "Tam",
+                "age": 22
+            },
+            {
+                "name": "Phuong",
+                "age": 16
+            },
+            {
+                "name": "Lan",
+                "age": 18
+            },
+            {
+                "name": "Ngoc",
+                "age": 25
+            }
+        ]
+    }
+]
